@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Babamla Birlikte",
+    "slug": "babamla-birlikte",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.babakiz.kavusum",
+      "intentFilters": [
+        {
+          "action": "MAIN",
+          "category": ["HOME", "DEFAULT"]
+        }
+      ]
+    }
+  }
+}
